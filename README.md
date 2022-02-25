@@ -13,10 +13,12 @@ With my goal of giving back to the open source community, I aim to:
 - [ ] Maintain my [dotfiles repository](https://github.com/chardskarth/dotfiles) to not let you fall deep like where I am right now.
 - [ ] Donate! There's a lot in open source to be thankful for, gahh.
 
-
-That's all for now, see you around. 🖖
-
 ---
 Oh, here's my ricing progress so far:
 
 ![macbook_desktop_ubersicht](./2022-02-25-mac-desktop.jpg "My Desktop")
+
+---
+Just reach out there's anything I can help you with.
+
+That's all for now, see you around. 🖖
