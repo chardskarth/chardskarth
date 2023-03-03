@@ -11,13 +11,8 @@ And besides burying myself deeper in this hole I'm in:
 * I'm trying to [learn nihongo](https://www.duolingo.com/profile/Leechado?via=share_profile). たすけてください.
 
 
-With my goal of giving back to the open source community, I aim to:
-- [ ] Create [my blog](https://triumphsc.org/wp-content/uploads/2019/03/construction-web-.jpg) to write and share about things I've learned in software development (and in life), so far.
-- [ ] Maintain my [dotfiles repository](https://github.com/chardskarth/dotfiles) to not let you fall deep like where I am right now.
-- [ ] Donate! There's a lot in open source to be thankful for, gahh.
-
 ---
-Oh, here's my ricing progress so far:
+Out of nowhere, look, an Übersicht desktop setup!
 
 ![macbook_desktop_ubersicht](./2022-02-25-mac-desktop.jpg "My Desktop")
 
